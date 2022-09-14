@@ -3,8 +3,4 @@
 Available in Play Store: https://play.google.com/store/apps/details?id=com.Misour.JumpSpinner
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/96650515/190093466-2e6c3eae-f41e-46d0-a078-9396bb801b02.png)
-![image](https://user-images.githubusercontent.com/96650515/190093506-84503e74-feef-49ac-af20-8d9d177c2175.png)
-![image](https://user-images.githubusercontent.com/96650515/190093610-09962815-fd49-4f3c-bd06-f43dcee02c25.png)
-![image](https://user-images.githubusercontent.com/96650515/190093547-652d0537-b4e4-4ed7-b614-becbd6279e84.png)
-![image](https://user-images.githubusercontent.com/96650515/190093559-b16b3692-6c5e-4ea5-a722-57cdb8d8a94a.png)
+<img src="https://user-images.githubusercontent.com/96650515/190094926-f420cf0c-96ec-4806-be16-028bd37ec414.png" width="240"> <img src="https://user-images.githubusercontent.com/96650515/190094984-79fe04bc-971f-4aa5-8e5b-29e9644ba112.png" width="240"> <img src="https://user-images.githubusercontent.com/96650515/190094330-a4544731-0834-45b2-b501-b32710e0da88.png" width="240"> <img src="https://user-images.githubusercontent.com/96650515/190094630-1f9c9b98-1f54-40c0-b31f-d5d1f3037d89.png" width="240"> <img src="https://user-images.githubusercontent.com/96650515/190094799-f76afe96-4315-4478-ac87-b13b12adc6e1.png" width="240"> <img src="https://user-images.githubusercontent.com/96650515/190094736-216c41fc-672e-440c-ae69-faa65a94a1ac.png" width="240">
